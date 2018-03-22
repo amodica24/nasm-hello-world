@@ -1,5 +1,5 @@
           global    start
-          SECTION   .data
+          section   .data
 start:
           mov       rax,0x2000004
           mov       rdi,1
